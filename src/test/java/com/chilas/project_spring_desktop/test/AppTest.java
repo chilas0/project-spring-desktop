@@ -1,4 +1,4 @@
-package com.chilas.project_spring_desktop;
+package com.chilas.project_spring_desktop.test;
 
 import static org.junit.Assert.assertTrue;
 
